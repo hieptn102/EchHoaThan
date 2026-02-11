@@ -4,7 +4,7 @@
 
 - ✅ Tăng sản lượng video đăng bài hàng tháng
 - ✅ Tìm được những video format kéo traffic tốt
-- ✅ Tối ưu doanh thu thực tế từ Shopee
+- ✅ Tối ưu doanh thu thực tế từ Shopee, Tiktok
 
 > **Lưu ý quan trọng:** KPI được tính 100% dựa vào **lợi nhuận thực nhận hàng tháng** của team
 
@@ -15,8 +15,8 @@ Tổng lợi nhuận tháng được chia thành **3 quỹ** dựa trên 3 tiêu
 | Quỹ | Tỷ lệ | Tiêu chí | Mục đích |
 |-----|-------|---------|---------|
 | **Quỹ 1** | 40% | Sản lượng | Duy trì nhịp đăng bài ổn định |
-| **Quỹ 2** | 20% | View hiệu suất | Tìm được format video kéo traffic |
-| **Quỹ 3** | 40% | Video Viral | Thưởng theo số video viral |
+| **Quỹ 2** | 30% | View hiệu suất | Tìm được format video kéo traffic |
+| **Quỹ 3** | 30% | Video Viral | Thưởng theo số video viral |
 
 ---
 1️⃣ QUỸ 40% – SẢN LƯỢNG
@@ -85,8 +85,6 @@ Tổng = 10 video viral
 
 📌 TINH THẦN TEAM
 
-Không spam vô nghĩa
-
-Không so đo cá nhân
+Không spam vô nghĩa - Trách nhiệm - Tích Cực
 
 Mục tiêu: tăng traffic → tối ưu chuyển đổi → tăng lợi nhuận chung
