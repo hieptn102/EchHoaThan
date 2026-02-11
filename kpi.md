@@ -19,20 +19,102 @@ Tổng lợi nhuận tháng được chia thành **3 quỹ** dựa trên 3 tiêu
 | **Quỹ 3** | 30% | Video Viral | Thưởng theo số video viral |
 
 ---
-1️⃣ QUỸ 40% – SẢN LƯỢNG
-Điều kiện:
+1️⃣ QUỸ 40% – SẢN LƯỢNG (THÁNG)
+📌 Điều kiện
 
-30 video/tháng
+30 video/tháng = chuẩn
 
 Tối thiểu 25 video mới được tính
 
-Cách chia:
+45 video = hệ số 1.1
 
-Ai đạt điều kiện → chia đều quỹ này
+Dưới 25 = 0
 
-Không tính vượt quá 30 video
+📌 Cách tính hệ số
+Số video	Hệ số
+<25	0
+25–29	1.0
+30–45	1.0
+>45	1.1
 
-Dưới 25 video → không được chia phần này
+👉 Chia quỹ theo tổng hệ số
+
+🎯 Ví dụ tính QUỸ 40% (THÁNG)
+
+Giả sử:
+
+Lợi nhuận tháng = 100 triệu
+
+Quỹ 1 = 40% = 40 triệu
+
+Sản lượng:
+
+Người	Số video	Hệ số
+A	48	1.1
+B	32	1.0
+C	27	1.0
+
+Tổng hệ số = 1.1 + 1.0 + 1.0 = 3.1
+
+Chia quỹ:
+
+A = 1.1 / 3.1 × 40tr ≈ 14.19tr
+
+B = 1.0 / 3.1 × 40tr ≈ 12.9tr
+
+C = 1.0 / 3.1 × 40tr ≈ 12.9tr
+
+👉 Khoảng cách không quá lớn → giữ team ổn định.
+
+📆 KPI THEO TUẦN (GIỮ NHỊP – CHỐNG DỒN CUỐI THÁNG)
+
+Mục tiêu:
+Không để cuối tháng chạy ồ ạt.
+
+🎯 Chuẩn tuần
+
+30 video/tháng ≈ 7–8 video/tuần
+
+Quy định tuần:
+
+7 video/tuần = đạt chuẩn
+
+6 video = cảnh báo
+
+<6 video = trừ 5% hệ số tháng
+
+📌 Cách tính trừ hệ số tháng
+
+Ví dụ:
+
+Một người có 2 tuần dưới 6 video
+→ trừ 0.05 × 2 = 0.1 hệ số tháng
+
+Nếu tháng đó họ đạt 1.0
+→ còn 0.9
+
+🎯 Ví dụ có KPI tuần
+
+A làm 48 video nhưng:
+
+Tuần 1: 3 video
+
+Tuần 2: 15 video
+
+Tuần 3: 20 video
+
+Tuần 4: 10 video
+
+→ Có 1 tuần dưới 6 video
+→ Hệ số 1.1 – 0.05 = 1.05
+
+Như vậy:
+
+Vẫn được thưởng cao
+
+Nhưng không được phép bỏ bê đầu tháng
+
+👉 Đây là cách giữ nhịp chuyên nghiệp.
 
 2️⃣ QUỸ 20% – HIỆU SUẤT VIEW
 Điều kiện tính:
