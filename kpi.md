@@ -64,8 +64,6 @@ B = 1.0 / 3.1 × 40tr ≈ 12.9tr
 
 C = 1.0 / 3.1 × 40tr ≈ 12.9tr
 
-👉 Khoảng cách không quá lớn → giữ team ổn định.
-
 📆 KPI THEO TUẦN (GIỮ NHỊP – CHỐNG DỒN CUỐI THÁNG)
 
 Mục tiêu:
@@ -107,14 +105,6 @@ Tuần 4: 10 video
 
 → Có 1 tuần dưới 6 video
 → Hệ số 1.1 – 0.05 = 1.05
-
-Như vậy:
-
-Vẫn được thưởng cao
-
-Nhưng không được phép bỏ bê đầu tháng
-
-👉 Đây là cách giữ nhịp chuyên nghiệp.
 
 2️⃣ QUỸ 20% – HIỆU SUẤT VIEW
 Điều kiện tính:
